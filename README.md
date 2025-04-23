@@ -1,2 +1,0 @@
-# vcards
-contacts elisa aerospace
